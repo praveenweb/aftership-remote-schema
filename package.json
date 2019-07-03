@@ -1,0 +1,19 @@
+{
+  "name": "aftership-remote-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Praveen <praveen@hasura.io>",
+  "license": "ISC",
+  "dependencies": {
+    "aftership": "^5.4.5",
+    "i18n-iso-countries": "^3.7.8",
+    "apollo-server": "^2.2.2",
+    "graphql": "^14.0.2",
+    "graphql-tag": "^2.10.1"
+  }
+}
