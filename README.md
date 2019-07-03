@@ -16,7 +16,7 @@
 
 1. Click the following button to edit on glitch
 
-   [![glitch-deploy-button](assets/deploy-glitch.png)](http://glitch.com/edit/#!/import/github/praveenweb/aftership-remote-schema)
+   [![glitch-deploy-button](https://raw.githubusercontent.com/hasura/graphql-engine/master/community/boilerplates/auth-webhooks/nodejs-express/assets/deploy-glitch.png)](http://glitch.com/edit/#!/import/github/praveenweb/aftership-remote-schema)
 
 2. Add the following environment variables in the `.env` file on glitch.
 
